@@ -434,23 +434,3 @@ select
 from
     works_with;
 
-
-select * from emp;
-
-select * from emp;
-
-show tables;
-
-select * from engine_cost;
-
-drop database emp_table;
-
-show databases;
-
-drop database hcl_company;
-
-drop database axe_eng;
-drop database mysql;
-
-
-SHOW TABLES;
